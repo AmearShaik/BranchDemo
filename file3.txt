@@ -1,2 +1,7 @@
 This file3 is created at Branch1 in compiler
+
 file3 is modified in main at local repo 
+
+thsi file is modified in Branch1 in local Repo
+
+Solved conflict
